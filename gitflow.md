@@ -1,4 +1,4 @@
-# Git 101 : Concepts and Definitions
+ Git 101 : Concepts and Definitions
 ---
 ## Repository:
  
@@ -27,7 +27,7 @@ When a Team member working on a project is designated some work on it, they will
 # Changelog
 
 - [x] Repository ~ Faisal
-- [ ] Clone
+- [x] Clone
 - [ ] Fork
 - [ ] Branch
 - [ ] Commit
