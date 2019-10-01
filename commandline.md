@@ -1,11 +1,11 @@
 Introduction: Basic Linux Commands 
 
-cd 
-
-## Repository:
+## cd:
  
-### In simple Terms:The cd command changes your current directory. In other words, it moves you to a new place in the filesystem.
+### In simple Terms:
+The cd command changes your current directory. In other words, it moves you to a new place in the filesystem.
 
+## Some Detail:
 If you are changing to a directory that is within your current directory, you can simply type cd and the name of the other directory.
 
 cd work
