@@ -22,13 +22,23 @@ Cloning makes a copy of a repository on Github on a local computer.
 
 When a Team member working on a project is designated some work on it, they will make a copy of the repository on their local computer to work on developing the project by using the clone command.
 
+---
+
+## Fork:
+
+### In Simple Terms:
+Forking is making a copy of a master repository in your github account.
+
+### Some Detail:
+
+When a team is working on a project and a team member wishes to create a copy of a master repository into their repository, they would Fork it into their repository to start working on the project
 
 ---
 # Changelog
 
 - [x] Repository ~ Faisal
 - [x] Clone
-- [ ] Fork
+- [x] Fork
 - [ ] Branch
 - [ ] Commit
 - [ ] Merge
