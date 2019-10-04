@@ -61,6 +61,61 @@ When a team is working on a project and a team member wishes to create a copy of
 
 
 ---
+
+
+## Checkout:
+
+### In Simple Terms:
+
+
+### Some Detail:
+
+---
+
+## Push:
+
+### In Simple Terms:
+
+
+### Some Detail:
+
+---
+## Pull:
+
+### In Simple Terms:
+
+
+### Some Detail:
+
+---
+
+## Remote Add / Remove / Show:
+
+### In Simple Terms:
+
+
+### Some Detail:
+
+---
+
+## Status:
+
+### In Simple Terms:
+
+
+### Some Detail:
+
+---
+
+## Master Branch:
+
+### In Simple Terms:
+
+
+### Some Detail:
+
+---
+---
 # Changelog
 
 - [x] Repository ~ Faisal
