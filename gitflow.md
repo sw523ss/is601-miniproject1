@@ -34,11 +34,38 @@ Forking is making a copy of a master repository in your github account.
 When a team is working on a project and a team member wishes to create a copy of a master repository into their repository, they would Fork it into their repository to start working on the project
 
 ---
+## Branch:
+
+### In Simple Terms:
+
+
+### Some Detail:
+
+---
+
+## Commit:
+
+### In Simple Terms:
+
+
+### Some Detail:
+
+---
+
+## Merge:
+
+### In Simple Terms:
+
+
+### Some Detail:
+
+
+---
 # Changelog
 
 - [x] Repository ~ Faisal
-- [x] Clone
-- [x] Fork
+- [x] Clone ~ Faisal
+- [x] Fork ~Faisal
 - [ ] Branch
 - [ ] Commit
 - [ ] Merge
