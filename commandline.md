@@ -165,6 +165,9 @@ Tab completion is an extremely helpful feature in nearly any command-line enviro
 
 This feature can dramatically help you speed up typing commands. Just hit Tab while typing a command, option, or file name and the shell environment will automatically complete what you’re typing or suggest options to you.
 
+Type sa, then tab twice list of files beginning with sa
+
+![tab(./images/tab.png)
 
 # Changelog
 
