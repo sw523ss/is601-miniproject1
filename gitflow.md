@@ -17,6 +17,7 @@ Creating a new Repository
 
 To See List of Repositories
 ![Image to view all repositories](images/seerepo1.png)
+
 ![Image to view all repositories](images/seerepo2.png)
 
 ---
@@ -31,6 +32,10 @@ Cloning makes a copy of a repository on Github on a local computer.
 
 When a Team member working on a project is designated some work on it, they will make a copy of the repository on their local computer to work on developing the project by using the clone command.
 
+### To visualize:
+
+To clone a repository, we go to the repository page and click on the Green Clone button as shown below. This can be done Via HTTPS or SSH
+![Image to view all repositories](images/clone.png)
 ---
 
 ## Fork:
