@@ -167,7 +167,7 @@ This feature can dramatically help you speed up typing commands. Just hit Tab wh
 
 Type sa, then tab twice list of files beginning with sa
 
-![tab(./images/tab.png)
+![tab](./images/tab.png)
 
 # Changelog
 
