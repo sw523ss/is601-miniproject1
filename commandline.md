@@ -82,14 +82,15 @@ pwd is shell built-in command(pwd)
 This command has two flgas. 
 
 **pwd - L**  Prints the symbolic path.
+
 **pwd - P** Prints the actual path. 
 
 # Changelog
 
 - [x] cd ~ Steven 
 - [x] mkdir ~ Steven 
-- [x] cp~Steven 
-- [x]pwd
+- [x] cp ~Steven 
+- [x] pwd ~ Steven
 - [ ] mv
 - [ ] rm
 - [ ] history
