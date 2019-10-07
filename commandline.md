@@ -16,7 +16,7 @@ Add content
 Press esc to enter command mode. Press shift:wq to save and key
 
 
-##Introduction: Basic Linux Commands 
+## Introduction: Basic Linux Commands 
 
 ## cd:
  
