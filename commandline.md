@@ -134,11 +134,11 @@ The `!497` command at the prompt tells the shell to rerun the command on line 49
 
 ### In simple Terms:
 
-The tilde (~) symbol stands for your home directory. If you are _user_, then the tilde (~) stands for /home/_user_
+The tilde (~) symbol stands for your home directory. 
 
 For example To navigate to your home directory, use **"cd"** or **"cd ~"**
 
-
+![home](./images/home.png)
 
 
 # Changelog
