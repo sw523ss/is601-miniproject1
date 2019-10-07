@@ -14,6 +14,11 @@ The Person that created the repository can share the URL with others who will al
 Creating a new Repository
 
 ![Image to create a new repository](images/createrepository.png)
+
+To See List of Repositories
+![Image to view all repositories](images/seerepo1.png)
+![Image to view all repositories](images/seerepo2.png)
+
 ---
 
 ## Clone: 
