@@ -109,6 +109,17 @@ mv fullnames.txt /Users/STEVE/Desktop/sam3
 
 ![mv2](./images/mv2.png)
 
+## rm
+
+### In simple Terms:
+rm stands for **remove** here. rm command is used to remove objects such as files, directories, symbolic links and so on from the file system like UNIX.
+
+This command normally works silently and you should be very careful while running **rm** command because once you delete the files then you are not able to recover the contents of files and directories.
+
+For example rm fullnames.txt 
+
+
+
 
 # Changelog
 
@@ -117,7 +128,7 @@ mv fullnames.txt /Users/STEVE/Desktop/sam3
 - [x] cp ~Steven 
 - [x] pwd ~ Steven
 - [x] mv ~ Steven  
-- [ ] rm
+- [x] rm ~ Steven
 - [ ] history
 - [ ] Home directory and ~
 - [ ] file paths in linux
