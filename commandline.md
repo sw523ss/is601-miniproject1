@@ -22,7 +22,8 @@ cd ~
 ## mkdir
 
 ### In simple Terms:
-The mkdir command allows the user to create directories. This command can create multiple directories at once as well as set the permissions for the directories. It is important to note that the user executing this command must have enough permissions to create a directory in the parent directory, or he/she may recieve a ‘permission denied’ error.
+
+Definition: The mkdir command allows the user to create directories. This command can create multiple directories at once as well as set the permissions for the directories. It is important to note that the user executing this command must have enough permissions to create a directory in the parent directory, or he/she may recieve a ‘permission denied’ error.
   
 ### Some Detail:
 
