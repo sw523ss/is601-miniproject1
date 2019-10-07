@@ -52,9 +52,10 @@ When a team is working on a project and a team member wishes to create a copy of
 ## Branch:
 
 ### In Simple Terms:
-
+Branching is when a  new branch is created from the main line to continue to develop a project without changing the main.
 
 ### Some Detail:
+When a developer is working on a project and wishes to add a fix, a task or a feature to a project without changing the main project files. 
 
 ---
 
