@@ -154,7 +154,7 @@ System can be expressed as a path. If I have the file  **penguin.jpg**  in the  
 
 Most users interact primarily with their home directory, so the tilde (**~**) character is used as a shorthand. That fact means that I can express my example penguin picture as either  **/home/seth/Pictures/penguin.jpg**  or as  **~/Pictures/penguin.jpg**.
 
-
+![filepath](./images/filepath.png)
 
 
 # Changelog
