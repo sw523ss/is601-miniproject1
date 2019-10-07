@@ -64,6 +64,11 @@ food.txt bar.txt
 
 ![cp](./images/cp.png)
 
+Copy 2 files main.c and def.h to destination absolute path directory /home/usr/rapid/ 
+
+cp main.c def. h /home/usr/rapid/
+
+
 
 # Changelog
 
