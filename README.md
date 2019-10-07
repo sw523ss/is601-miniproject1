@@ -1,9 +1,9 @@
 # is601-miniproject1
 ---
-Student Names:
+### Student Names:
 
-* Faisal Sukkar (github username: curiousbasil) 
-* Steven Wong (github username: sw523ss)
+* **Faisal Sukkar** (github username:*curiousbasil*) 
+* **Steven Wong** (github username: *sw523ss*)
 
 
 ---
