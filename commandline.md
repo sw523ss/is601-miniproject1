@@ -47,3 +47,18 @@ mkdir test
 
 ![mkdir](./images/test.png)
 
+
+## cp
+
+### In simple Terms:
+
+The `cp` command is a command-line utility for copying files and directories. It supports moving one or more files or folders with options for taking backups and preserving attributes.
+
+To copy a file with the `cp` command pass the name of the file to be copied and then the destination. In the following example the file `food.txt` is copied to a new file called `bar.txt`. The cp command will also create the new file as part of the operation.
+
+ls 
+food.txt 
+cp food.txt bar.txt
+ls 
+food.txt bar.txt
+
