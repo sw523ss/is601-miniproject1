@@ -177,7 +177,7 @@ Using the command history
 
 Use the up and down key's to scroll  through previously typed commands. Press [Enter] to execute  them or use the left and right arrow  keys to edit  the command first.
 
-![arrow key](./images/arrowkey.mov)
+![arrow key](./images/arrowkey.mp4)
 
 # Changelog
 
