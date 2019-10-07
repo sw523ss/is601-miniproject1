@@ -187,7 +187,7 @@ Let's say a developer is working on the master branch of a project but wishes to
 - [x] Branch
 - [x] Commit
 - [x] Merge
-- [ ] Checkout
+- [x] Checkout
 - [ ] Push
 - [ ] Pull
 - [ ] Remote Add / Remove / Show
