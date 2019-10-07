@@ -120,6 +120,15 @@ For example rm fullnames.txt
 
 ![rm](./images/rm.png)
 
+## history
+
+### In simple Terms:
+
+The `history` command shows a list of the commands entered since you started the session. The joy of `history` is that now you can replay any of them by using a command such as:
+
+The `!497` command at the prompt tells the shell to rerun the command on line 497 of the history list. I could also access that command by entering:
+
+
 
 # Changelog
 
@@ -129,7 +138,7 @@ For example rm fullnames.txt
 - [x] pwd ~ Steven
 - [x] mv ~ Steven  
 - [x] rm ~ Steven
-- [ ] history
+- [x] history ~ Steven
 - [ ] Home directory and ~
 - [ ] file paths in linux
 - [ ] Using the tab key to complete file paths
