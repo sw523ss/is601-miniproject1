@@ -157,6 +157,15 @@ Most users interact primarily with their home directory, so the tilde (**~**) ch
 ![filepath](./images/filepath.png)
 
 
+## Use Tab Key to complete file paths
+
+### In simple Terms:
+
+Tab completion is an extremely helpful feature in nearly any command-line environment, whether you’re using the Bash shell on Linux, Command Prompt or PowerShell on Windows, or a terminal window on Mac OS X.
+
+This feature can dramatically help you speed up typing commands. Just hit Tab while typing a command, option, or file name and the shell environment will automatically complete what you’re typing or suggest options to you.
+
+
 # Changelog
 
 - [x] cd ~ Steven 
@@ -168,7 +177,7 @@ Most users interact primarily with their home directory, so the tilde (**~**) ch
 - [x] history ~ Steven
 - [x] Home directory and ~   Steven
 - [x] file paths in linux  ~ Steven
-- [ ] Using the tab key to complete file paths
+- [x] Using the tab key to complete file paths  ~ Steven
 - [ ] Using up and down arrow for history
 
 
