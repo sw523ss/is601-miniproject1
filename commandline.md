@@ -85,17 +85,114 @@ This command has two flgas.
 
 **pwd - P** Prints the actual path. 
 
+## mv
+
+### In simple Terms:
+
+The `mv` command is a command-line utility for moving and renaming files.
+
+If you want to just rename a file, you can use the mv command in the following way:
+
+mv [filename]  [new_filename] 
+
+For  mv names.txt fullnames.txt 
+
+![mv1](./images/mv1.png)
+
+Similarly, if the requirement is to move a file to a new location, use the mv command in the following way:
+
+mv [filename] [dest-dir]
+
+For example: 
+
+mv fullnames.txt /Users/STEVE/Desktop/sam3
+
+![mv2](./images/mv2.png)
+
+## rm
+
+### In simple Terms:
+rm stands for **remove** here. rm command is used to remove objects such as files, directories, symbolic links and so on from the file system like UNIX.
+
+This command normally works silently and you should be very careful while running **rm** command because once you delete the files then you are not able to recover the contents of files and directories.
+
+For example rm fullnames.txt 
+
+![rm](./images/rm.png)
+
+## history
+
+### In simple Terms:
+
+The `history` command shows a list of the commands entered since you started the session. The joy of `history` is that now you can replay any of them by using a command such as:
+
+The `!497` command at the prompt tells the shell to rerun the command on line 497 of the history list. I could also access that command by entering:
+
+![history](./images/history.png)
+
+## home directory and ~
+
+### In simple Terms:
+
+The tilde (~) symbol stands for your home directory. 
+
+For example To navigate to your home directory, use **"cd"** or **"cd ~"**
+
+![home](./images/home.png)
+
+## file paths in linux
+
+### In simple Terms:
+
+A file path is the human-readable representation of a file or folder’s location on a computer system.
+
+Examples: 
+
+Files and folders on Linux are given names containing the usual components like the letters, numbers, and other characters on a keyboard. But when a file is inside a folder, or a folder is inside another folder, the **/** character shows the relationship between them. That’s why you often see files listed in the format **/usr/bin/python3** or **/etc/os-release**. The forward slashes indicate that one item is stored inside of the item preceding it.
+
+System can be expressed as a path. If I have the file  **penguin.jpg**  in the  **Pictures**  folder within my home directory, and my username is  **seth**, then the file path can be expressed as  **/home/seth/Pictures/penguin.jpg**.
+
+Most users interact primarily with their home directory, so the tilde (**~**) character is used as a shorthand. That fact means that I can express my example penguin picture as either  **/home/seth/Pictures/penguin.jpg**  or as  **~/Pictures/penguin.jpg**.
+
+![filepath](./images/filepath.png)
+
+
+## Use Tab Key to complete file paths
+
+### In simple Terms:
+
+Tab completion is an extremely helpful feature in nearly any command-line environment, whether you’re using the Bash shell on Linux, Command Prompt or PowerShell on Windows, or a terminal window on Mac OS X.
+
+This feature can dramatically help you speed up typing commands. Just hit Tab while typing a command, option, or file name and the shell environment will automatically complete what you’re typing or suggest options to you.
+
+Type sa, then tab twice list of files beginning with sa
+
+![tab](./images/tab.png)
+
+## Use up and down arrow for history
+
+### In simple Terms:
+
+Using the command history
+
+Use the up and down key's to scroll  through previously typed commands. Press [Enter] to execute  them or use the left and right arrow  keys to edit  the command first.
+
+![arrow key](./images/arrowkey.mov)
+
 # Changelog
 
 - [x] cd ~ Steven 
 - [x] mkdir ~ Steven 
 - [x] cp ~Steven 
 - [x] pwd ~ Steven
-- [ ] mv
-- [ ] rm
-- [ ] history
-- [ ] Home directory and ~
-- [ ] file paths in linux
-- [ ] Using the tab key to complete file paths
-- [ ] Using up and down arrow for history
+- [x] mv ~ Steven  
+- [x] rm ~ Steven
+- [x] history ~ Steven
+- [x] Home directory and ~   Steven
+- [x] file paths in linux  ~ Steven
+- [x] Using the tab key to complete file paths  ~ Steven
+- [x] Using up and down arrow for history  ~ Steven:
+
+
+
 
