@@ -131,6 +131,9 @@ Checkout is a command that allows the user (developer) switch between branches i
 Let's say a developer is working on the master branch of a project but wishes to create a new branch to start working on a feature, fix or a task in parallel to the master branch. Lets say they decide to name the new branch '2ndbranch'. If they are are on the master branch and they type "git checkout 2ndbranch" in the command line this command will switch the user from working on the master branch to this 2nd branch.
 
 ### To visualize:
+
+In the image below we created a new branch from the master branch and named it "gitflowb2". Then, in order to know what branch we are on we type the command "git branch". This shows us that we are on the master branch. In order to switch from working on the master branch to work on "gitflowb2" we type the command (git checkout <destinaion branch name>) in this case "git checkout gitflowb2". Then, when we want to check which branch we're on we type "git branch" and it shows that we were moved to the 2nd branch.
+
 ![Image to view all repositories](images/checkout.png)
 
 ---
