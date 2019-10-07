@@ -18,6 +18,7 @@ To quickly return to your home directory, use the ~ (tilde) character as the dir
 
 cd ~
 
+![cd ~](./images/cd.png)
 
 ## mkdir
 
