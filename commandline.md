@@ -1,4 +1,22 @@
-Introduction: Basic Linux Commands 
+ ## What is the VI editor?
+
+The VI editor is the most popular and classic text editor in the Linux family. Below, are some reasons which make it a widely used editor –
+
+-   It is available in almost all Linux Distributions
+-   It works the same across different platforms and Distributions
+-   It is user-friendly. Hence, millions of Linux users love it and use it for their editing needs
+
+Example: 
+Create a new file:  vi filename
+
+Presss i to enter the insert mode 
+
+Add content 
+
+Press esc to enter command mode. Press shift:wq to save and key
+
+
+## Introduction: Basic Linux Commands 
 
 ## cd:
  
@@ -177,7 +195,7 @@ Using the command history
 
 Use the up and down key's to scroll  through previously typed commands. Press [Enter] to execute  them or use the left and right arrow  keys to edit  the command first.
 
-![arrow key](./images/arrowkey.mov)
+![arrow key](./images/arrowkey.gif)
 
 # Changelog
 
