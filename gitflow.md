@@ -118,16 +118,20 @@ This shows a pull request page which is still pending approval to merge:
 ![Image to view all repositories](images/pullrequest-merge2.png)
 
 This Shows a pull request page after merge is approved:
-![Image to view all repositories](images/pullrequest-merge3.png)
+![Image to view all repositories](images/checkout.png)
 ---
 
 
 ## Checkout:
 
 ### In Simple Terms:
-
+Checkout is a command that allows the user (developer) switch between branches in a project on git.
 
 ### Some Detail:
+Let's say a developer is working on the master branch of a project but wishes to create a new branch to start working on a feature, fix or a task in parallel to the master branch. Lets say they decide to name the new branch '2ndbranch'. If they are are on the master branch and they type "git checkout 2ndbranch" in the command line this command will switch the user from working on the master branch to this 2nd branch.
+
+### To visualize:
+
 
 ---
 
