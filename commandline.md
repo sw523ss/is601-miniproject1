@@ -8,8 +8,11 @@ The VI editor is the most popular and classic text editor in the Linux family. B
 
 Example: 
 Create a new file:  vi filename
+
 Presss i to enter the insert mode 
+
 Add content 
+
 Press esc to enter command mode. Press shift:wq to save and key
 
 
