@@ -62,3 +62,18 @@ cp food.txt bar.txt
 ls 
 food.txt bar.txt
 
+
+# Changelog
+
+- [x] cd ~ Steven 
+- [x] mkdir ~ Steven 
+- [x] cp~Steven 
+- [ ] pwd
+- [ ] mv
+- [ ] rm
+- [ ] history
+- [ ] Home directory and ~
+- [ ] file paths in linux
+- [ ] Using the tab key to complete file paths
+- [ ] Using up and down arrow for history
+
