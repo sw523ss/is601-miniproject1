@@ -140,6 +140,22 @@ For example To navigate to your home directory, use **"cd"** or **"cd ~"**
 
 ![home](./images/home.png)
 
+## file paths in linux
+
+### In simple Terms:
+
+A file path is the human-readable representation of a file or folder’s location on a computer system.
+
+Examples: 
+
+Files and folders on Linux are given names containing the usual components like the letters, numbers, and other characters on a keyboard. But when a file is inside a folder, or a folder is inside another folder, the **/** character shows the relationship between them. That’s why you often see files listed in the format **/usr/bin/python3** or **/etc/os-release**. The forward slashes indicate that one item is stored inside of the item preceding it.
+
+System can be expressed as a path. If I have the file  **penguin.jpg**  in the  **Pictures**  folder within my home directory, and my username is  **seth**, then the file path can be expressed as  **/home/seth/Pictures/penguin.jpg**.
+
+Most users interact primarily with their home directory, so the tilde (**~**) character is used as a shorthand. That fact means that I can express my example penguin picture as either  **/home/seth/Pictures/penguin.jpg**  or as  **~/Pictures/penguin.jpg**.
+
+
+
 
 # Changelog
 
@@ -151,7 +167,10 @@ For example To navigate to your home directory, use **"cd"** or **"cd ~"**
 - [x] rm ~ Steven
 - [x] history ~ Steven
 - [x] Home directory and ~   Steven
-- [ ] file paths in linux
+- [x] file paths in linux  ~ Steven
 - [ ] Using the tab key to complete file paths
 - [ ] Using up and down arrow for history
+
+
+
 
