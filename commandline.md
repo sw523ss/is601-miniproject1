@@ -85,13 +85,36 @@ This command has two flgas.
 
 **pwd - P** Prints the actual path. 
 
+## mv
+
+### In simple Terms:
+
+The `mv` command is a command-line utility for moving and renaming files.
+
+If you want to just rename a file, you can use the mv command in the following way:
+
+mv [filename]  [new_filename] 
+
+For  mv names.txt fullnames.txt 
+
+Similarly, if the requirement is to move a file to a new location, use the mv command in the following way:
+
+mv [filename] [dest-dir]
+
+For example: 
+
+mv fullnames.txt /Users/STEVE/Desktop/sam3
+
+
+
+
 # Changelog
 
 - [x] cd ~ Steven 
 - [x] mkdir ~ Steven 
 - [x] cp ~Steven 
 - [x] pwd ~ Steven
-- [ ] mv
+- [x] mv ~ Steven  
 - [ ] rm
 - [ ] history
 - [ ] Home directory and ~
