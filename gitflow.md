@@ -1,4 +1,4 @@
- Git 101 : Concepts and Definitions
+Git 101 : Concepts and Definitions
 ---
 ## Repository:
  
