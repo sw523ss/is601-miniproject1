@@ -55,8 +55,15 @@ When a team is working on a project and a team member wishes to create a copy of
 Branching is when a  new branch is created from the main line to continue to develop a project without changing the main.
 
 ### Some Detail:
-When a developer is working on a project and wishes to add a fix, a task or a feature to a project without changing the main project files. 
+When a developer is working on a project and wishes to add a fix, a task or a feature to a project without changing the main project files. It allows a developed to work on a projects master branch and a 2nd branch (or more) in parallel so that the work on a 2nd branch doesn't affect the work on the master branch.
 
+### To Visualize:
+
+Below is a screenshot from the terminal window. It shows that typing "git branch <name>" creates a new branch off the master branch. Typing "git checkout <name>" moves us from working on a master branch to the branch sepcified in the command line. Any changes in the specified branch will NOT affect the master branch until the developer merges his branches together. Like this, a developer can work on multiple versions of a project in parallel without comprimising the original work on the master.
+
+![Image to view all repositories](images/branches.png)
+
+---
 ---
 
 ## Commit:
