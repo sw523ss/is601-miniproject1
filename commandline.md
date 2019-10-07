@@ -190,7 +190,7 @@ Use the up and down key's to scroll  through previously typed commands. Press [E
 - [x] Home directory and ~   Steven
 - [x] file paths in linux  ~ Steven
 - [x] Using the tab key to complete file paths  ~ Steven
-- [x] Using up and down arrow for history
+- [x] Using up and down arrow for history  ~ Steven:
 
 
 
