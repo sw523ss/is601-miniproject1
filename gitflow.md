@@ -182,7 +182,7 @@ This Shows a pull request page after merge is approved:
 - [x] Fork ~Faisal
 - [x] Branch
 - [x] Commit
-- [ ] Merge
+- [x] Merge
 - [ ] Checkout
 - [ ] Push
 - [ ] Pull
