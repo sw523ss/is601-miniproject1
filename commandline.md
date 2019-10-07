@@ -130,6 +130,17 @@ The `!497` command at the prompt tells the shell to rerun the command on line 49
 
 ![history](./images/history.png)
 
+## home directory and ~
+
+### In simple Terms:
+
+The tilde (~) symbol stands for your home directory. If you are _user_, then the tilde (~) stands for /home/_user_
+
+For example To navigate to your home directory, use **"cd"** or **"cd ~"**
+
+
+
+
 # Changelog
 
 - [x] cd ~ Steven 
@@ -139,7 +150,7 @@ The `!497` command at the prompt tells the shell to rerun the command on line 49
 - [x] mv ~ Steven  
 - [x] rm ~ Steven
 - [x] history ~ Steven
-- [ ] Home directory and ~
+- [x] Home directory and ~   Steven
 - [ ] file paths in linux
 - [ ] Using the tab key to complete file paths
 - [ ] Using up and down arrow for history
