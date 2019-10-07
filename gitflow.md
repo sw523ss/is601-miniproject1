@@ -72,14 +72,33 @@ Below is a screenshot from the terminal window. It shows that typing "git branch
 ![Image to view all repositories](images/branches.png)
 
 ---
----
 
 ## Commit:
 
 ### In Simple Terms:
-
+Committing is a command that saves all edits and changes done to a project
+ file .
 
 ### Some Detail:
+When a developer is working on a project and wishes to save the revisions that were added into the project before pushing it to the main repositoy they enter a commit command to essentially save all the changes done to the branch they are working on.
+
+### To visualize: 
+Below is a rendering of a README.md file on github before any changes
+
+![Image to view all repositories](images/beforecommit.png)
+
+Here are some edits made to the README.md file
+
+![Image to view all repositories](images/commitchange.png)
+
+Once the edits are made, the file must be added 'git add <filename>', then committed 'git commit' to be uploaded into the master repository.
+
+![Image to view all repositories](images/commitcode.png)
+
+Once the changes are pushed, it will render as shown below on github.
+
+![Image to view all repositories](images/aftercommit.png)
+
 
 ---
 
