@@ -97,6 +97,8 @@ mv [filename]  [new_filename]
 
 For  mv names.txt fullnames.txt 
 
+![mv1](./images/mv1.png)
+
 Similarly, if the requirement is to move a file to a new location, use the mv command in the following way:
 
 mv [filename] [dest-dir]
@@ -105,7 +107,7 @@ For example:
 
 mv fullnames.txt /Users/STEVE/Desktop/sam3
 
-
+![mv2](./images/mv2.png)
 
 
 # Changelog
