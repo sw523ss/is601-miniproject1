@@ -69,14 +69,25 @@ Copy 2 files main.c and def.h to destination absolute path directory /home/usr/r
 
 cp main.c def. h /home/usr/rapid/
 
+## pwd
 
+### In simple Terms:
+
+**pwd** stands for **P**rint **W**orking **D**irectory. It prints the path of the working directory, starting from the root.
+
+pwd is shell built-in command(pwd)
+
+This command has two flgas. 
+
+**pwd - L**  Prints the symbolic path.
+**pwd - P** Prints the actual path. 
 
 # Changelog
 
 - [x] cd ~ Steven 
 - [x] mkdir ~ Steven 
 - [x] cp~Steven 
-- [ ] pwd
+- [x]pwd
 - [ ] mv
 - [ ] rm
 - [ ] history
