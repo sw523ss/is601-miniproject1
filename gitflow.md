@@ -1,4 +1,4 @@
-Git 101 : Concepts and Definitions
+Git Tutorial 101 : Concepts and Definitions
 ---
 ## Repository:
  
@@ -35,6 +35,7 @@ When a Team member working on a project is designated some work on it, they will
 ### To visualize:
 
 To clone a repository, we go to the repository page and click on the Green Clone button as shown below. This can be done Via HTTPS or SSH
+
 ![Image to view all repositories](images/clone.png)
 ---
 
