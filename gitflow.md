@@ -13,7 +13,7 @@ The Person that created the repository can share the URL with others who will al
 ### To visualize:
 Creating a new Repository
 
-![Image to create a new repository](/createrepository.png)
+![Image to create a new repository](images/createrepository.png)
 ---
 
 ## Clone: 
