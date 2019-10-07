@@ -169,6 +169,15 @@ Type sa, then tab twice list of files beginning with sa
 
 ![tab](./images/tab.png)
 
+## Use up and down arrow for history
+
+### In simple Terms:
+
+Using the command history
+
+Use the up and down key's to scroll  through previously typed commands. Press [Enter] to execute  them or use the left and right arrow  keys to edit  the command first.
+
+
 # Changelog
 
 - [x] cd ~ Steven 
@@ -181,7 +190,7 @@ Type sa, then tab twice list of files beginning with sa
 - [x] Home directory and ~   Steven
 - [x] file paths in linux  ~ Steven
 - [x] Using the tab key to complete file paths  ~ Steven
-- [ ] Using up and down arrow for history
+- [x] Using up and down arrow for history
 
 
 
