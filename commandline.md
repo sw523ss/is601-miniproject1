@@ -75,6 +75,8 @@ cp main.c def. h /home/usr/rapid/
 
 **pwd** stands for **P**rint **W**orking **D**irectory. It prints the path of the working directory, starting from the root.
 
+![pwd](./images/pwd.png)
+
 pwd is shell built-in command(pwd)
 
 This command has two flgas. 
