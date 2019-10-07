@@ -128,7 +128,7 @@ The `history` command shows a list of the commands entered since you started the
 
 The `!497` command at the prompt tells the shell to rerun the command on line 497 of the history list. I could also access that command by entering:
 
-
+![history](./images/history.png)
 
 # Changelog
 
