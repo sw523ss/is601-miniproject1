@@ -105,11 +105,20 @@ Once the changes are pushed, it will render as shown below on github.
 ## Merge:
 
 ### In Simple Terms:
-
+Merging is taking the work of 2 or more developers working on a specific project, and putting them together to update and add on to the master repository.
 
 ### Some Detail:
+When 2 or more developers are working on specific tasks, features and/or fixes on a designated project they will work on it locally. When they are ready to commit and push this commit to be reflected onto the master repository, they push the updates onto their repository which is a clone or a fork of the master, then request what is called a pull request. From there the project manager (person who is managing the master repository) will check the work, accept the revisions and **MERGE** the work of the developer to the main repository.
 
+### To Visualize:
 
+Here we see that user *sw523ss* had requested a pull which the manager of the master repository *curiousbasil* will have to check, accept then merge
+
+This shows a pull request page which is still pending approval to merge:
+![Image to view all repositories](images/pullrequest-merge2.png)
+
+This Shows a pull request page after merge is approved:
+![Image to view all repositories](images/pullrequest-merge3.png)
 ---
 
 
@@ -171,8 +180,8 @@ Once the changes are pushed, it will render as shown below on github.
 - [x] Repository ~ Faisal
 - [x] Clone ~ Faisal
 - [x] Fork ~Faisal
-- [ ] Branch
-- [ ] Commit
+- [x] Branch
+- [x] Commit
 - [ ] Merge
 - [ ] Checkout
 - [ ] Push
