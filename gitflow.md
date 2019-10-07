@@ -48,6 +48,14 @@ Forking is making a copy of a master repository in your github account.
 
 When a team is working on a project and a team member wishes to create a copy of a master repository into their repository, they would Fork it into their repository to start working on the project
 
+### To visualize: 
+When you are at a repository that you did not create and wish to create a copy of that repository on to your github account, you click on the fork option on the upper right of the page as shown below.
+
+![Image to view all repositories](images/fork1.png)
+
+Once a repository is forked, a copy will be saved into your repository as shown below.
+
+![Image to view all repositories](images/fork2.png)
 ---
 ## Branch:
 
