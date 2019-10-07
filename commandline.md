@@ -62,6 +62,8 @@ cp food.txt bar.txt
 ls 
 food.txt bar.txt
 
+![cp](./images/cp.png)
+
 
 # Changelog
 
