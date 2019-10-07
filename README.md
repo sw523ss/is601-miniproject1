@@ -1,6 +1,11 @@
 # is601-miniproject1
 ---
-Student Names: Faisal Sukkar (username: curiousbasil) & Steven Wong (username: sw523ss)
+Student Names:
+
+* Faisal Sukkar (github username: curiousbasil) 
+* Steven Wong (github username: sw523ss)
+
+
 ---
 ## Git Tutorial: Click below to link to Tutorial
 * [Git Tutorial](/gitflow.md)
