@@ -34,4 +34,15 @@ The mkdir command allows the user to create directories. This command can create
 
 **mkdir-m a=rwx [directory]** This option is used to set the file modes, i.e. permissions, etc. for the created directories. The syntax of the mode is the same as the chmod command.
 
+## How to create directories using mkdir?
+
+Creating directories is pretty simple, all you need to do is to pass the name of the directory you want to create to the mkdir command.
+
+mkdir [directory]
+
+Following is an example:
+
+mkdir test 
+
+![mkdir](./images/test.png)
 
