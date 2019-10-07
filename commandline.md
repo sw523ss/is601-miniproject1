@@ -118,7 +118,7 @@ This command normally works silently and you should be very careful while runnin
 
 For example rm fullnames.txt 
 
-
+![rm](./images/rm.png)
 
 
 # Changelog
