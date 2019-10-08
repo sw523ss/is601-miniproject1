@@ -189,8 +189,19 @@ The command "git pull origin master" will pull the version of the master repo (r
 
 ### In Simple Terms:
 
+**Remote add** is to add a remote repository to a local repository which basically links your local repository to a github repo.
+
+**Remote Remove** is the opposite of the above. Basically it disconnects the link between your local repository and the online github repo.
+
+**Remote show** is a command that shows information about the remote repository. 
+
 
 ### Some Detail:
+If a developer wishes to connect/link his local repository to a remote master repository they can use the *remote add* to do so and *remote remove* to disconnect that link.The command *git remote show <remotename>* would show important information about the remote repository which can help identify the name , the branch, some basic configuration info abot the remote repo.
+
+### To Visualize: 
+The Screenshot below shows the result of the command *git remote show origin*
+
 
 ---
 
@@ -228,7 +239,7 @@ In the first screenshot we can see that while on a master branch, all images add
 
 In the screenshot below we transfer to the branch *gitflowb2*, and this will show us only the images added and committed by the time *gitflowb2* was created
 
-![Screen Shot of images on branch](images/bb.png)
+![Screen Shot of the git remote show cmd](images/show.png)
 
 ---
 
@@ -244,7 +255,7 @@ In the screenshot below we transfer to the branch *gitflowb2*, and this will sho
 - [x] Checkout ~Faisal
 - [x] Push ~Faisal
 - [x] Pull ~Faisal
-- [ ] Remote Add / Remove / Show
+- [x] Remote Add / Remove / Show
 - [x] Status ~Faisal
 - [x] Master Branch ~Faisal
 
