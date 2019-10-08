@@ -217,10 +217,18 @@ Say a developer is working on editing a file or more in a directory. Once they a
 A Master Branch is the main branch in a project which other branches are created from. 
 
 ### Some Detail:
-When a developer is working on a project on the master branch and wishes to add some new code without changing the master code they would create a new branch from the master branch. This ensures the developer that no matter what changes are made would not affect the master branch. If the work they did was successful, they would then merge the branch with the master branch and commit to take the work from both branches INTO the master branch making it a part of the original content in the master branch.
+When a developer is working on a project on the master branch and wishes to add some new code without changing the master code they would create a new branch from the master branch. This ensures the developer that no matter what changes are made would not affect the master branch. If the work they did was successful, they would then merge the branch with the master branch and commit to take the work from both branches INTO the master branch making it a part of the original content in the master branch. The master branch is considered the default branch in a project.
 
 ### To Visualize:
 
+In this example we are assuming that most of the work is being done on the master branch.
+In the first screenshot we can see that while on a master branch, all images added to this project shows on the master since all the commits to add these images exist on the master branch
+
+![Screen Shot of images on master branch](images/masterb.png)
+
+In the screenshot below we transfer to the branch *gitflowb2*, and this will show us only the images added and committed by the time *gitflowb2* was created
+
+![Screen Shot of images on branch](images/bb.png)
 
 ---
 
