@@ -198,7 +198,7 @@ Below we see a terminal where the developer edited a file named "README.md" usin
 - [x] Commit
 - [x] Merge
 - [x] Checkout
-- [ ] Push
+- [x] Push
 - [ ] Pull
 - [ ] Remote Add / Remove / Show
 - [ ] Status
