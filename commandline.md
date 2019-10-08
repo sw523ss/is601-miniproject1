@@ -6,14 +6,15 @@ The VI editor is the most popular and classic text editor in the Linux family. B
 -   It works the same across different platforms and Distributions
 -   It is user-friendly. Hence, millions of Linux users love it and use it for their editing needs
 
-Example: 
+Vi usage example: 
+
 Create a new file:  vi filename
 
 Presss i to enter the insert mode 
 
-Add content 
+Add content to the file 
 
-Press esc to enter command mode. Press shift:wq to save and key
+Press esc to enter command mode. Press shift:wq to save and quit.
 
 
 ## Introduction: Basic Linux Commands 
@@ -76,9 +77,13 @@ The `cp` command is a command-line utility for copying files and directories. It
 To copy a file with the `cp` command pass the name of the file to be copied and then the destination. In the following example the file `food.txt` is copied to a new file called `bar.txt`. The cp command will also create the new file as part of the operation.
 
 ls 
+
 food.txt 
+
 cp food.txt bar.txt
+
 ls 
+
 food.txt bar.txt
 
 ![cp](./images/cp.png)
