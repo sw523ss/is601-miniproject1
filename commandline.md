@@ -2,9 +2,8 @@
 
 The VI editor is the most popular and classic text editor in the Linux family. Below, are some reasons which make it a widely used editor –
 
--   It is available in almost all Linux Distributions
--   It works the same across different platforms and Distributions
--   It is user-friendly. Hence, millions of Linux users love it and use it for their editing needs
+-   It is available in almost all Linux Distributions.
+-   It is user-friendly and many use it for their editing needs.
 
 Vi usage example: 
 
@@ -15,6 +14,8 @@ Presss i to enter the insert mode
 Add content to the file 
 
 Press esc to enter command mode. Press shift:wq to save and quit.
+
+![vi](./images/vi.gif)
 
 
 ## Introduction: Basic Linux Commands 
