@@ -157,9 +157,18 @@ Below we see a terminal where the developer edited a file named "README.md" usin
 
 ### In Simple Terms:
 
+The pull command downloads content from a remote (master) repository and downloads it into a local repositor.
 
 ### Some Detail:
 
+Let's give an example of two or more developers that are working on a project and each has a copy of a repository locally. When they each work on their designated tasks and they add, commit and push back into the master (remote repository) the repository manager will merge all these commits into the master repo. At this point in time, each developer will have a different version of the repository on their local repo. So before they continue work, and to ensure that all the developers are starting again from the same point (Version), they need to pull from the master repo. This way they will all have the most updated version of the repo on their local.
+
+### To Visualize:
+
+The command "git pull origin master" will pull the version of the master repo (remote) into the local repository.
+
+![Image to view all repositories](images/pull.png)
+ 
 ---
 
 ## Remote Add / Remove / Show:
@@ -199,7 +208,7 @@ Below we see a terminal where the developer edited a file named "README.md" usin
 - [x] Merge
 - [x] Checkout
 - [x] Push
-- [ ] Pull
+- [x] Pull
 - [ ] Remote Add / Remove / Show
 - [ ] Status
 - [ ] Master Branch
