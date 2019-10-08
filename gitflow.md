@@ -141,9 +141,16 @@ In the image below we created a new branch from the master branch and named it "
 ## Push:
 
 ### In Simple Terms:
-
+Pushing is when committed content is uploaded into the master repository.
 
 ### Some Detail:
+When a developer is working on a project completes tasks, features and/or fixes and commits them, they would then **Push** the contents into the master repository on github.
+
+### To Visualize:
+Below we see a terminal where the developer edited a file named "README.md" using the 'vi' command. Once the changes are made, the command 'git status' shows all the files that were worked on but which changes were not 'committed' yet. These are shown below as modified files. Before a file can be pushed (uploaded) into the master (remote) repository, the files must be specified using *add* then changes saved using *commit*. After this, the files are pushed. In the below example the command "git push origin master" is used which uploads the changes on a file to the master repository
+
+![Image to view all repositories](images/push.png)
+
 
 ---
 ## Pull:
