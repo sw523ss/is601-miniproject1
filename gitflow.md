@@ -255,7 +255,7 @@ In the screenshot below we transfer to the branch *gitflowb2*, and this will sho
 - [x] Checkout ~Faisal
 - [x] Push ~Faisal
 - [x] Pull ~Faisal
-- [x] Remote Add / Remove / Show
+- [x] Remote Add / Remove / Show ~Faisal
 - [x] Status ~Faisal
 - [x] Master Branch ~Faisal
 

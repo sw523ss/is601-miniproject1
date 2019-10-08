@@ -5,6 +5,10 @@
 * **Faisal Sukkar** (github username:*curiousbasil*) 
 * **Steven Wong** (github username: *sw523ss*)
 
+---
+
+## Introduction: Why git,docker, automated testing and continuous integration can improve the productivity and competitiveness of a company
+** [Introduction](/intro.md)
 
 ---
 ## Git Tutorial: Click below to link to Tutorial
@@ -31,7 +35,7 @@
 
 ---
 
-# Changelog
+# Gitflow Changelog
 
 - [x] Repository ~ Faisal
 - [x] Clone ~ Faisal
@@ -42,7 +46,7 @@
 - [x] Checkout ~Faisal
 - [x] Push ~Faisal
 - [x] Pull ~Faisal
-- [x] Remote Add / Remove / Show
+- [x] Remote Add / Remove / Show ~Faisal
 - [x] Status ~Faisal
 - [x] Master Branch ~Faisal
 
