@@ -237,7 +237,7 @@ If a developer wishes to connect/link his local repository to a remote master re
 ### To Visualize: 
 The Screenshot below shows the result of the command *git remote show origin*
 
-! [show1](images/show.png)
+![show1](images/show.png)
 
 ---
 
