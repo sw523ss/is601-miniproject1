@@ -203,6 +203,16 @@ Use the up and down key's to scroll  through previously typed commands. Press [E
 
 ![arrow key](./images/arrowkey.gif)
 
+---
+
+References:
+[Commandline Reference] (https://maker.pro/linux/tutorial/basic-linux-commands-for-beginners)
+
+---
+
+[Link to README File](/README.md) 
+---
+
 # Changelog
 
 - [x] cd ~ Steven 

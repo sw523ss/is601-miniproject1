@@ -89,11 +89,11 @@ When a team is working on a project and a team member wishes to create a copy of
 
 When you are at a repository that you did not create and wish to create a copy of that repository on to your github account, you click on the fork option on the upper right of the page as shown below.
 
-![Image to view all repositories](images/fork1.png)
+![Fork Image1](images/fork1.png)
 
 Once a repository is forked, a copy will be saved into your repository as shown below.
 
-![Image to view all repositories](images/fork2.png)
+![Fork Image2](images/fork2.png)
 ---
 ## Branch:
 
@@ -109,7 +109,7 @@ When a developer is working on a project and wishes to add a fix, a task or a fe
 
 Below is a screenshot from the terminal window. It shows that typing "git branch <name>" creates a new branch off the master branch. Typing "git checkout <name>" moves us from working on a master branch to the branch sepcified in the command line and typing only "git branch" Shows us what branch we are currently on. Any changes in the specified branch will NOT affect the master branch until the developer merges his branches together. Like this, a developer can work on multiple versions of a project in parallel without comprimising the original work on the master.
 
-![Image to view all repositories](images/branches.png)
+![branch image1](images/branches.png)
 
 ---
 
@@ -126,21 +126,21 @@ When a developer is working on a project and wishes to save the revisions that w
 
 ### To visualize: 
 
-Below is a rendering of a ![README.md](/README.md) file on github before any changes
+Below is a rendering of a [README.md](/README.md) file on github before any changes
 
-![Image to view all repositories](images/beforecommit.png)
+![commit image1](images/beforecommit.png)
 
 Here are some edits made to the README.md file
 
-![Image to view all repositories](images/commitchange.png)
+![commit image2](images/commitchange.png)
 
 Once the edits are made, the file must be added 'git add <filename>', then committed 'git commit' to be uploaded into the master repository.
 
-![Image to view all repositories](images/commitcode.png)
+![commit image3](images/commitcode.png)
 
 Once the changes are pushed, it will render as shown below on github.
 
-![Image to view all repositories](images/aftercommit.png)
+![commit image 4](images/aftercommit.png)
 
 
 ---
@@ -160,10 +160,10 @@ When 2 or more developers are working on specific tasks, features and/or fixes o
 Here we see that user *sw523ss* had requested a pull which the manager of the master repository *curiousbasil* will have to check, accept then merge
 
 This shows a pull request page which is still pending approval to merge:
-![Image to view all repositories](images/pullrequest-merge2.png)
+![merge1](images/pullrequest-merge2.png)
 
 This Shows a pull request page after merge is approved:
-![Image to view all repositories](images/pullrequest-merge3.png)
+![merg2](images/pullrequest-merge3.png)
 ---
 
 
@@ -181,7 +181,7 @@ Let's say a developer is working on the master branch of a project but wishes to
 
 In the image below we created a new branch from the master branch and named it "gitflowb2". Then, in order to know what branch we are on we type the command "git branch". This shows us that we are on the master branch. In order to switch from working on the master branch to work on "gitflowb2" we type the command (git checkout <destinaion branch name>) in this case "git checkout gitflowb2". Then, when we want to check which branch we're on we type "git branch" and it shows that we were moved to the 2nd branch.
 
-![Image to view all repositories](images/checkout.png)
+![checkout1](images/checkout.png)
 
 ---
 
@@ -199,7 +199,7 @@ When a developer is working on a project completes tasks, features and/or fixes 
 
 Below we see a terminal where the developer edited a file named "README.md" using the 'vi' command. Once the changes are made, the command 'git status' shows all the files that were worked on but which changes were not 'committed' yet. These are shown below as modified files. Before a file can be pushed (uploaded) into the master (remote) repository, the files must be specified using *add* then changes saved using *commit*. After this, the files are pushed. In the below example the command "git push origin master" is used which uploads the changes on a file to the master repository
 
-![Image to view all repositories](images/push.png)
+![push1](images/push.png)
 
 
 ---
@@ -215,9 +215,8 @@ Let's give an example of two or more developers that are working on a project an
 
 ### To Visualize:
 
-The command "git pull origin master" will pull the version of the master repo (remote) into the local repository.
-
-![Image to view all repositories](images/pull.png)
+The command "git pull origin master" will pull the version of the master repo (remote) into the local repository 
+! [pull1](images/pull.png)
  
 ---
 
@@ -238,6 +237,7 @@ If a developer wishes to connect/link his local repository to a remote master re
 ### To Visualize: 
 The Screenshot below shows the result of the command *git remote show origin*
 
+! [show1](images/show.png)
 
 ---
 
