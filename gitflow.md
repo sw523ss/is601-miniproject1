@@ -1,5 +1,37 @@
 Git Tutorial 101 : Concepts and Definitions
 ---
+
+##Gitflow Workflow: Definition
+
+Gitflow is the end-to-end branching method used for development on *github*.
+
+*Here's How it Works*
+
+Say a development team wishes to start a new project. They would roughly follow the steps shown below which would reflect a gitflow workflow:
+
+* A project leader or repository manager would create a master repository
+* Every developer on the team would clone this repository on their local repos
+* From there every developer would create and work on their development branches
+* They would then branch off to work feature branches
+* Once those features and fixes are complete, they would merge the work done back to their development branch
+* Developers would go between the last two steps until the release. 
+* Here they would create a release branch and fix bugs. This would be considered the testing environment
+* If developers need to work on features they would branch off and merge back into the release branch
+* Once testing in the release branch is complete, developers would merge any work done on the latest development branch, then merge back into the master branch. 
+* If there are any bugs, the latest master branch would be branched into a *hotfixes* branch
+* Developers would go repeat the steps until a project is complete.
+
+*The gitflow workflow has many benifits. Here are some of the main ones:*
+* It allows developers to work in parallel to each other
+* It also allows developers to develop parallel branches to each other so that the work done on their main local branch isn't affected by any wrong updates to the file
+* It allows for easy collaboration between team members. 
+* Since there would be a repository manager, it will allow for version/quality control. Where the repo manager would check the work before merging it into the master branch. 
+* It allows for easy and quick fixes. Mistakes are usually easily noticed and realized. So the developers would go back and fix it.
+* It gives developers an area to stage all completed commits to then test it without realsing and merging it to the master branch,
+ 
+
+---
+
 ## Repository:
  
 ### In simple Terms:
