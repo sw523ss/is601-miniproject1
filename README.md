@@ -8,7 +8,7 @@
 ---
 
 ## Introduction: Why git,docker, automated testing and continuous integration can improve the productivity and competitiveness of a company
-** [Introduction](/intro.md)
+* [Introduction](/intro.md)
 
 ---
 ## Git Tutorial: Click below to link to Tutorial
