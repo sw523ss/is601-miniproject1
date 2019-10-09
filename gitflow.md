@@ -31,6 +31,9 @@ Gitflow is the end-to-end branching method used for development on *github*.
 * It gives developers an area to stage all completed commits to then test it without realsing and merging it to the master branch.
 * It allows for scalability. As a projects increase in size, it is easier to add and remove users to a project.
 
+*Some Reference:*
+* [Gitflow Workflow](https://datasift.github.io/gitflow/IntroducingGitFlow.html)
+
 ---
 
 ## Repository:
@@ -123,7 +126,7 @@ When a developer is working on a project and wishes to save the revisions that w
 
 ### To visualize: 
 
-Below is a rendering of a README.md file on github before any changes
+Below is a rendering of a ![README.md](/README.md) file on github before any changes
 
 ![Image to view all repositories](images/beforecommit.png)
 
