@@ -5,7 +5,7 @@ Git Tutorial 101 : Concepts and Definitions
 
 Gitflow is the end-to-end branching method used for development on *github*.
 
-**Here's How it Works**
+### Here's How it Works
 
 *Say a development team wishes to start a new project. They would roughly follow the steps shown below which would reflect a gitflow workflow:*
 
@@ -21,14 +21,15 @@ Gitflow is the end-to-end branching method used for development on *github*.
 * If there are any bugs, the latest master branch would be branched into a *hotfixes* branch
 * Developers would go repeat the steps until a project is complete.
 
-**The gitflow workflow has many benifits. Here are some of the main ones:**
+### The gitflow workflow has many benefits. Here are some of the main ones:
+
 * It allows developers to work in parallel to each other
 * It also allows developers to develop parallel branches to each other so that the work done on their main local branch isn't affected by any wrong updates to the file
 * It allows for easy collaboration between team members. 
 * Since there would be a repository manager, it will allow for version/quality control. Where the repo manager would check the work before merging it into the master branch. 
 * It allows for easy and quick fixes. Mistakes are usually easily noticed and realized. So the developers would go back and fix it.
-* It gives developers an area to stage all completed commits to then test it without realsing and merging it to the master branch,
- 
+* It gives developers an area to stage all completed commits to then test it without realsing and merging it to the master branch.
+* It allows for scalability. As a projects increase in size, it is easier to add and remove users to a project.
 
 ---
 
