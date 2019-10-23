@@ -1,8 +1,8 @@
 # is601-miniproject1
 ---
-### Student Names:
+### **Student Names**:
 
-* **Faisal Sukkar** (github username:*curiousbasil*) 
+* **Faisal Sukkar** (github username: *curiousbasil*) 
 * **Steven Wong** (github username: *sw523ss*)
 
 ---
@@ -18,6 +18,10 @@
 * [Command Line Tutorial](/commandline.md)
 
 ---
+## Python 101 : Click below to link to Tutorial
+* [Python 101 Tutorial](/python101.md)
+---
+
 
 # Commandline Changelog
 
@@ -53,3 +57,4 @@
 ---
 
 
+# Python 101 Changelog

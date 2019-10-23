@@ -294,4 +294,4 @@ In the screenshot below we transfer to the branch *gitflowb2*, and this will sho
 - [x] Remote Add / Remove / Show ~Faisal
 - [x] Status ~Faisal
 - [x] Master Branch ~Faisal
-
+- [x] Update README.md file ~Faisal
