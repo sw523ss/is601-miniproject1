@@ -195,7 +195,7 @@ Programmers faced with a number of recurring problems as they write object orien
 - [x] Added Link on README.md file ~ Faisal
 - [x] How Python uses Indentation to control Flow ~Steven 
 - [X] Don't Repeat Yourself ~Steven
-- [ ] Design Patterns from Gang of Four
+- [X] Design Patterns from Gang of Four ~Steven 
 - [ ] Class
 - [ ] Object
 - [ ] Static 
