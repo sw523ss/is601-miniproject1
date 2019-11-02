@@ -28,8 +28,11 @@ Adding unnecessary code increases the amount of work required to maintain the so
 Duplication decreases the quality of the code. 
 ### To visualize:
 
+Calculate BMI for three subjects. 
 
 ![Calculate BMI for Three Subjects](./images/DRYsample.png)
+
+Use function to avoid repeating. 
 
 ![Use function to avoid DRY](./images/functiontoavoiddry.png)
 ---
