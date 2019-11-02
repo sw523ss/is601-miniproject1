@@ -12,6 +12,7 @@ A code block starts with indentation and ends with the first unindented line.
 The amount of indentation must be consistent throughout that block. For instance, four whitespaces are used for indentation. 
 ### To visualize:
 
+![indentation](./images/indentation.png)
 
 ---
 
