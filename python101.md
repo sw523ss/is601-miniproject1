@@ -176,8 +176,8 @@ Duplication decreases the quality of the code.
 - [x] Create .md File for python 101 ~ Faisal
 - [x] Added Headers for all items to be defined. ~Faisal
 - [x] Added Link on README.md file ~ Faisal
-- [x] How Python uses Indentation to control Flow ~ Steven 
-- [ ] Don't Repeat Yourself
+- [x] How Python uses Indentation to control Flow ~Steven 
+- [X] Don't Repeat Yourself ~Steven
 - [ ] Design Patterns from Gang of Four
 - [ ] Class
 - [ ] Object
