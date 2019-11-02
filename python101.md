@@ -29,6 +29,9 @@ Duplication decreases the quality of the code.
 ### To visualize:
 
 
+![Calculate BMI for Three Subjects](./images/DRYsample.png)
+
+![Use function to avoid DRY](./images/functiontoavoiddry.png)
 ---
 ## Design Patterns from Gang of Four
 
