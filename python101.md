@@ -20,8 +20,12 @@ The amount of indentation must be consistent throughout that block. For instance
 
 ### In simple Terms:
 
+The Don't Repeat Yourself principle states that duplication in logic should be eliminated via abstraction. 
+
 ### Some Detail:
 
+Adding unnecessary code increases the amount of work required to maintain the software in the future. Duplicate code adds to technical debt. 
+Duplication decreases the quality of the code. 
 ### To visualize:
 
 
