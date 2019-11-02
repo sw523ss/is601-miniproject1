@@ -44,11 +44,13 @@ Programmers faced with a number of recurring problems as they write object orien
 
 ### Some Detail:
 
-###Classification of Design Patterns
+### Classification of Design Patterns
+---
 **Creational Patterns**: These are concerned with creating objects.
-**Structural Patterns**: These patterns describe relationship between objects.
-**Behavioral Patterns**: Interaction between different objects. The strategy pattern aka “The Policy Pattern" is one of the most frequently used Behavioral Pattern. The main goal of this pattern is to enable a client class to choose between different algorithms or procedures to complete the same task. 
+---
+**Structural Patterns**: These patterns describe relationship between objects.**Behavioral Patterns**: Interaction between different objects. The strategy pattern aka “The Policy Pattern" is one of the most frequently used Behavioral Pattern. The main goal of this pattern is to enable a client class to choose between different algorithms or procedures to complete the same task. 
 
+--
 ### To visualize:
 
 
