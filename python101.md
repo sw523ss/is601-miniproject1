@@ -10,9 +10,11 @@ Python uses indentation to control flow by defining a block of code.
 
 A code block starts with indentation and ends with the first unindented line. 
 The amount of indentation must be consistent throughout that block. For instance, four whitespaces are used for indentation. 
+
 ### To visualize:
 
 ![indentation](./images/indentation.png)
+
 
 ---
 
@@ -26,6 +28,7 @@ The Don't Repeat Yourself principle states that duplication in logic should be e
 
 Adding unnecessary code increases the amount of work required to maintain the software in the future. Duplicate code adds to technical debt. 
 Duplication decreases the quality of the code. 
+
 ### To visualize:
 
 Calculate BMI for three subjects. 
@@ -35,6 +38,8 @@ Calculate BMI for three subjects.
 Use function to avoid repeating. 
 
 ![Use function to avoid DRY](./images/functiontoavoiddry.png)
+
+
 ---
 ## Design Patterns from Gang of Four
 
@@ -51,7 +56,6 @@ Programmers faced with a number of recurring problems as they write object orien
 **Structural Patterns**: These patterns describe relationship between objects.
 
 **Behavioral Patterns**: Interaction between different objects. The strategy pattern aka “The Policy Pattern" is one of the most frequently used Behavioral Pattern. The main goal of this pattern is to enable a client class to choose between different algorithms or procedures to complete the same task. 
-
 
 ### To visualize:
 
@@ -209,3 +213,7 @@ Programmers faced with a number of recurring problems as they write object orien
 - [ ] Extend Class
 - [ ] CSV Files 
 - [ ] Reading Files 
+- [x]
+- [x]
+- [x]
+- [x]
