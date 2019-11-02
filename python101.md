@@ -40,7 +40,14 @@ Use function to avoid repeating.
 
 ### In simple Terms:
 
+Programmers faced with a number of recurring problems as they write object oriented code. To standardize the solutions to these problems, four software engineers, identified the most common patterns of problems that occur in object oriented programming. They formulated model solutions to these common problems in a book called “Design Patterns: Elements of Reusable Object-Oriented Software” aka “The Gang of Four (GoF)
+
 ### Some Detail:
+
+###Classification of Design Patterns
+**Creational Patterns**: These are concerned with creating objects.
+**Structural Patterns**: These patterns describe relationship between objects.
+**Behavioral Patterns**: Interaction between different objects. The strategy pattern aka “The Policy Pattern" is one of the most frequently used Behavioral Pattern. The main goal of this pattern is to enable a client class to choose between different algorithms or procedures to complete the same task. 
 
 ### To visualize:
 
