@@ -76,7 +76,7 @@ To create a class, use the keyword class
 
 Python Class Demo: Write a Python program to convert an integer to a roman numeral.
 
-![class](./images/class.png)
+![Class](./images/class.png)
 ---
 ## Object
 
