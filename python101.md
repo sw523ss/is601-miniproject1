@@ -123,7 +123,7 @@ This calls the method without creating an object. Unlike normal class methods, t
 
 ### To visualize:
 
-
+![Static](./images/static.png)
 ---
 ## Property / Attribute
 
