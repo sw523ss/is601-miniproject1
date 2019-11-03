@@ -1,14 +1,22 @@
-class Car(object):
+class py_solution:
+    def int_to_Roman(self, num):
+        val = [
+            1000, 900, 500, 400,
+            100, 90, 50, 40,
+            ]
+        syb = [
+            "M", "CM", "D", "CD",
+            "C", "XC", "L", "XL",
+            ]
+        roman_num = ''
+        i = 0
+        while  num > 0:
+            for _ in range(num // val[i]):
+                roman_num += syb[i]
+                num -= val[i]
+            i += 1
+        return roman_num
 
-    def __init__(self):
-        self._types = [Type('front_left'),
-                             Type('front_right'),
-                             Type('rear_left'),
-                             Type('rear_right'), ]
-        self._tank = Tank(70)
 
-    def types_pressure(self):
-        return [type.pressure for type in self._types]
-
-    def fuel_level(self):
-        return self._tank.level
+print(py_solution().int_to_Roman(100))
+print(py_solution().int_to_Roman(600))

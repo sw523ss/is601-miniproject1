@@ -61,9 +61,16 @@ Programmers faced with a number of recurring problems as they write object orien
 
 ### In simple Terms:
 
+Python is an object oriented programming language.
+A Class is like an object constructor, or a "blueprint" for creating objects.
+
 ### Some Detail:
 
+To create a class, use the keyword class
+
 ### To visualize:
+
+Python Class Demo: Write a Python program 
 
 
 ---
