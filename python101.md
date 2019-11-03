@@ -207,7 +207,7 @@ Python Class Demo: Write a Python program to convert an integer to a roman numer
 - [x] How Python uses Indentation to control Flow ~Steven 
 - [X] Don't Repeat Yourself ~Steven
 - [X] Design Patterns from Gang of Four ~Steven 
-- [ ] Class
+- [X] Class ~Steven
 - [ ] Object
 - [ ] Static 
 - [ ] Property / Attribute
@@ -220,7 +220,4 @@ Python Class Demo: Write a Python program to convert an integer to a roman numer
 - [ ] Extend Class
 - [ ] CSV Files 
 - [ ] Reading Files 
-- [x]
-- [x]
-- [x]
-- [x]
+
