@@ -221,7 +221,7 @@ Create an object t1, and print the value of t.
 - [X] Don't Repeat Yourself ~Steven
 - [X] Design Patterns from Gang of Four ~Steven 
 - [X] Class ~Steven
-- [ ] Object
+- [X] Object ~Steven
 - [ ] Static 
 - [ ] Property / Attribute
 - [ ] Method 
