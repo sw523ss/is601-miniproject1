@@ -82,11 +82,24 @@ Python Class Demo: Write a Python program to convert an integer to a roman numer
 
 ### In simple Terms:
 
+Object is simply a collection of data (variables) and methods (functions) that act on those data. 
+
+The object() function returns an empty object.
+
+You cannot add new properties or methods to this object.
+
+This object is the base for all classes, it holds the built-in properties and methods which are default for all classes.
+
 ### Some Detail:
+
+Syntax: object()
 
 ### To visualize:
 
+Create Object: we use the class named myTime to create objects. 
+Create an object t1, and print the value of t. 
 
+![Object](./images/object.png)
 ---
 ## Static
 
