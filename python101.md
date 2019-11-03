@@ -70,9 +70,9 @@ To create a class, use the keyword class
 
 ### To visualize:
 
-Python Class Demo: Write a Python program 
+Python Class Demo: Write a Python program to convert an integer to a roman numeral.
 
-
+![class](./images/class.png)
 ---
 ## Object
 
