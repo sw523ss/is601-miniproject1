@@ -105,7 +105,21 @@ Create an object t1, and print the value of t.
 
 ### In simple Terms:
 
+Static methods do not require object creation.
+
+A static method can always be called, but is part of a class.
+
+Method requires you to create an object: Not the case with static methods.
+
+
 ### Some Detail:
+
+Static method
+Create a class and add a method. You should explicitly define it’s a static method by adding @staticmethod.
+
+Once you defined the class, you can call the methods directly.
+
+This calls the method without creating an object. Unlike normal class methods, they do not have access to objects variables.
 
 ### To visualize:
 

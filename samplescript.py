@@ -1,5 +1,7 @@
-class MyTime:
-    t = 10
+class Iceship(object):
 
-t1 = MyTime()
-print(t1.t)
+    @staticmethod
+    def start():
+        print('start')
+
+Iceship.start()
