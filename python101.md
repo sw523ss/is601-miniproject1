@@ -236,7 +236,7 @@ This calls the method without creating an object. Unlike normal class methods, t
 - [X] Design Patterns from Gang of Four ~Steven 
 - [X] Class ~Steven
 - [X] Object ~Steven
-- [ ] Static 
+- [X] Static ~Steven
 - [ ] Property / Attribute
 - [ ] Method 
 - [ ] Exception
