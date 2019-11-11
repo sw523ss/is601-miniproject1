@@ -1,7 +1,11 @@
-class Iceship(object):
+class Greeting:
 
-    @staticmethod
-    def start():
-        print('start')
+    def __init__(self):
+        pass
 
-Iceship.start()
+    def printhello(self, name):
+        print(f"Hello, {name}")
+        return name
+
+obj=Greeting()
+obj.printhello('John')

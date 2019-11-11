@@ -115,6 +115,7 @@ Method requires you to create an object: Not the case with static methods.
 ### Some Detail:
 
 Static method
+
 Create a class and add a method. You should explicitly define it’s a static method by adding @staticmethod.
 
 Once you defined the class, you can call the methods directly.
@@ -137,12 +138,26 @@ This calls the method without creating an object. Unlike normal class methods, t
 ---
 ## Method
 
+A Python method is similar to a Python function, but it must be called on an object. 
+
+
 ### In simple Terms:
 
-### Some Detail:
+To create it, you must put it inside a class. 
+Now in this Car class, we have three methods, for instance, start(), speedup(), and turn(). 
+In this example, we put the pass statement in each of these, because we haven’t decided what to do yet. 
+
+Let’s call the turn() Python method on blackcar. 
+
+blackcar.turn()
+
+## Some Detail:
+
+The method printhello() has a name, takes a parameter, and returns a value.
 
 ### To visualize:
 
+![Method](./images/method.png)
 
 ---
 ## Exception
