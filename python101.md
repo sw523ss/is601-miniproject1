@@ -202,7 +202,8 @@ Unit Testing is the first level of software testing where the smallest testable 
 unittest defines tests by the following two ways :
 
 Manage test “fixtures” using code.
-test itself.
+
+Test itself.
 
 ### To visualize:
 This test() method will fail if TRUE is ever FALSE.
@@ -215,10 +216,23 @@ This test() method will fail if TRUE is ever FALSE.
 
 ### In simple Terms:
 
+A constructor is a method that Python calls when it instantiates an object using the definitions found in your class. 
+Python relies on the constructor to perform tasks such as assigning values to any instance variables that the object 
+will need when it starts. Also, constructors verify that there are enough resources for the object and perform any 
+other start-up task.
+
+
 ### Some Detail:
+
+The name of a constructor is always the same, __init__(). The constructor can accept arguments when necessary to create 
+the object. When you create a class without a constructor, Python automatically creates a default constructor  
+that doesn’t do anything. Every class must have a constructor, even if it simply relies on the default constructor. 
 
 ### To visualize:
 
+Default constructor
+
+![constructor](./images/constructor.png)
 
 ---
 ## Factory

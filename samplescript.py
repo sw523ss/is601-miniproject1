@@ -1,11 +1,18 @@
-import unittest
+class Flounder:
+    fish = ""
 
+    # default constructor
+    def __init__(self):
+        self.fish = "Flounder"
 
-class SimpleTest(unittest.TestCase):
+    # a method for printing data members
+    def print_Fish(self):
+        print(self.fish)
 
-    # Returns True or False.
-    def test(self):
-        self.assertTrue(False)
+    # creating object of the class
 
-if __name__ == '__main__':
-    unittest.main()
+obj = Flounder()
+
+    # calling the instance method using the object obj
+
+obj.print_Fish()
