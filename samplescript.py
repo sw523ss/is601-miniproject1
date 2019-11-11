@@ -1,11 +1,8 @@
-class Greeting:
-
-    def __init__(self):
-        pass
-
-    def printhello(self, name):
-        print(f"Hello, {name}")
-        return name
-
-obj=Greeting()
-obj.printhello('John')
+try:
+   fob = open("test", "r")
+   fob.write("This is my test file for exception handling!!")
+except IOError:
+   print ("Error: can't find the file or read data")
+else:
+   print ("Write operation is performed successfully on the file")
+   fob.close()

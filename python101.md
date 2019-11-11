@@ -160,12 +160,34 @@ The method printhello() has a name, takes a parameter, and returns a value.
 ---
 ## Exception
 
+Python provides two features to handle any unexpected error in your Python programs. 
+Also, add debugging capabilities in them. 
+
 ### In simple Terms:
+
+An exception is an error that happens during execution of a program. When that
+error occurs, Python generate an exception that can be handled, which avoids your
+program to crash.
 
 ### Some Detail:
 
-### To visualize:
+Exceptions are convenient in many ways for handling errors and special conditions
+in a program. When you think that you have a code which can produce an error then
+you can use exception handling.  
 
+Below are examples of common exceptions errors in Python:
+
+IOError
+If the file cannot be opened.
+
+ImportError
+If python cannot find the module
+
+### To visualize:
+Open the file in the READ mode and then try to perform a write operation. 
+For this instance, below code helps to handle the exception.
+
+![Exception](./images/exception.png)
 
 ---
 ## Unit Test
