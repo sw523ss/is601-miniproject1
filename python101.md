@@ -298,10 +298,10 @@ Default constructor
 - [X] Object ~Steven
 - [X] Static ~Steven
 - [ ] Property / Attribute
-- [ ] Method 
-- [ ] Exception
-- [ ] Unit Test
-- [ ] Constructor
+- [X] Method ~Steven 
+- [X] Exception ~Steven
+- [X] Unit Test ~Steven
+- [X] Constructor ~Steven
 - [ ] Factory 
 - [ ] Decorator 
 - [ ] Extend Class
