@@ -145,9 +145,7 @@ A Python method is similar to a Python function, but it must be called on an obj
 
 To create it, you must put it inside a class. 
 Now in this Car class, we have three methods, for instance, start(), speedup(), and turn(). 
-In this example, we put the pass statement in each of these, because we haven’t decided what to do yet. 
-
-Let’s call the turn() Python method on blackcar. 
+In this example, let’s call the turn() Python method on blackcar. 
 
 blackcar.turn()
 
