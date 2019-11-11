@@ -160,10 +160,10 @@ The method printhello() has a name, takes a parameter, and returns a value.
 ---
 ## Exception
 
-Python provides two features to handle any unexpected error in your Python programs. 
-Also, add debugging capabilities in them. 
-
 ### In simple Terms:
+
+Python provides features to handle any unexpected error in your Python programs. 
+Also, add debugging capabilities in them. 
 
 An exception is an error that happens during execution of a program. When that
 error occurs, Python generate an exception that can be handled, which avoids your
@@ -194,9 +194,20 @@ For this instance, below code helps to handle the exception.
 
 ### In simple Terms:
 
+Unit Testing is the first level of software testing where the smallest testable parts of a software are tested.
+
+
 ### Some Detail:
 
+unittest defines tests by the following two ways :
+
+Manage test “fixtures” using code.
+test itself.
+
 ### To visualize:
+This test() method will fail if TRUE is ever FALSE.
+
+![Unittest](./images/unittest.png)
 
 
 ---

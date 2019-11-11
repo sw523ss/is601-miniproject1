@@ -1,8 +1,11 @@
-try:
-   fob = open("test", "r")
-   fob.write("This is my test file for exception handling!!")
-except IOError:
-   print ("Error: can't find the file or read data")
-else:
-   print ("Write operation is performed successfully on the file")
-   fob.close()
+import unittest
+
+
+class SimpleTest(unittest.TestCase):
+
+    # Returns True or False.
+    def test(self):
+        self.assertTrue(False)
+
+if __name__ == '__main__':
+    unittest.main()
