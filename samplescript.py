@@ -1,18 +1,21 @@
-class Flounder:
-    fish = ""
+class Car(object):
 
-    # default constructor
-    def __init__(self):
-        self.fish = "Flounder"
+    def factory(type):
+        if type == "Sportscar":
+            return Sportscar()
+        if type == "Van":
+            return Van()
 
-    # a method for printing data members
-    def print_Fish(self):
-        print(self.fish)
+    factory = staticmethod(factory)
 
-    # creating object of the class
+class Sportscar(Car):
+    def drive(self):
+        print("Sportscar driving.")
 
-obj = Flounder()
+class Van(Car):
+    def drive(self):
+        print("Van driving.")
 
-    # calling the instance method using the object obj
-
-obj.print_Fish()
+# Create object using factory.
+obj = Car.factory("Sportscar")
+obj.drive()

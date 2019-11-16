@@ -238,12 +238,20 @@ Default constructor
 ## Factory
 
 ### In simple Terms:
-
+Developers may not know all objects to create in advance.
+Some objects can be created only at execution time after a user requests so.
 ### Some Detail:
+
+The idea is to have one function, the factory, that takes an input string and outputs an object.
+The type of object depends on the type of input string you specify. This technique could make your program more easily extensible also. 
+A new programmer could easily add functionality by adding a new string and class, without having to read all of the source code.
+
 
 ### To visualize:
 
+The example below demonstrates a factory method. The factory method returns a new object of either type depending on the input.
 
+![factory](./images/factory.png)
 ---
 ## Decorator
 
@@ -302,7 +310,7 @@ Default constructor
 - [X] Exception ~Steven
 - [X] Unit Test ~Steven
 - [X] Constructor ~Steven
-- [ ] Factory 
+- [X] Factory ~Steven
 - [ ] Decorator 
 - [ ] Extend Class
 - [ ] CSV Files 
