@@ -1,16 +1,11 @@
-def p_decorate(func):
-   def func_wrapper(self):
-       return "<p>{0}</p>".format(func(self))
-   return func_wrapper
+# List of strings
+list1 = ["This", "is", "a", "sample", "program"]
 
-class Person(object):
-    def __init__(self):
-        self.name = "James"
-        self.family = "King"
+# List of ints
+list2 = [10, 2, 45, 3, 5, 7, 8, 10]
 
-    @p_decorate
-    def get_fullname(self):
-        return self.name+" "+self.family
+# Makes list1 longer by appending the elements of list2 at the end.
 
-my_person = Person()
-print(my_person.get_fullname())
+list1.extend(list2)
+
+print("extended list1  : " , list1)

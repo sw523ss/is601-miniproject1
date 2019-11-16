@@ -273,9 +273,23 @@ We can build decorators for methods the same way, while taking self into conside
 
 ### In simple Terms:
 
+Extend class iterates over its argument and adding each element to the list and extending the list. 
+The length of the list increases by number of elements in it’s argument
+
 ### Some Detail:
 
+If we want to extend any existing list by concatenating the contents of any other lists to it. 
+Then we should use lists’ extend() method.
+
+
+
+
 ### To visualize:
+
+list.extend(anotherList)
+Now contents of list1 will be extended. 
+
+![extend](./images/extend.png)
 
 
 ---
@@ -318,7 +332,7 @@ We can build decorators for methods the same way, while taking self into conside
 - [X] Constructor ~Steven
 - [X] Factory ~Steven
 - [X] Decorator ~Steven 
-- [ ] Extend Class
+- [X] Extend Class ~Steven
 - [ ] CSV Files 
 - [ ] Reading Files 
 
