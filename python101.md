@@ -313,10 +313,18 @@ CSV files use a comma to separate each specific data value. Here’s what that s
 
 ### In simple Terms:
 
+Reading from a CSV file is done using the reader object. The CSV file is opened as a text file with 
+Python’s built-in open() function, which returns a file object. 
+
 ### Some Detail:
+
+Each row returned by the reader is a list of String elements containing the data found by removing the delimiters. 
+The first row returned contains the column names, which is handled in a special way.
 
 ### To visualize:
 
+![employeetxt](./images/employeetxt.png)
+![csvread](./images/csvread.png)
 
 ---
 
@@ -340,5 +348,5 @@ CSV files use a comma to separate each specific data value. Here’s what that s
 - [X] Decorator ~Steven 
 - [X] Extend Class ~Steven
 - [X] CSV Files ~Steven 
-- [ ] Reading Files 
+- [X] Reading Files ~Steven 
 
