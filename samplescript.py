@@ -1,11 +1,3 @@
-# List of strings
-list1 = ["This", "is", "a", "sample", "program"]
-
-# List of ints
-list2 = [10, 2, 45, 3, 5, 7, 8, 10]
-
-# Makes list1 longer by appending the elements of list2 at the end.
-
-list1.extend(list2)
-
-print("extended list1  : " , list1)
+column 1 name,column 2 name, column 3 name
+first row data 1,first row data 2,first row data 3
+second row data 1,second row data 2,second row data 3

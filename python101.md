@@ -297,10 +297,16 @@ Now contents of list1 will be extended.
 
 ### In simple Terms:
 
+A CSV file (Comma Separated Values file) is a type of plain text file that uses specific structuring to arrange 
+tabular data. Because it’s a plain text file, it can contain only actual text data
+
 ### Some Detail:
+
+CSV files use a comma to separate each specific data value. Here’s what that structure looks like:
 
 ### To visualize:
 
+![csvfile](./images/csvfile.png)
 
 ---
 ## Reading Files
@@ -333,6 +339,6 @@ Now contents of list1 will be extended.
 - [X] Factory ~Steven
 - [X] Decorator ~Steven 
 - [X] Extend Class ~Steven
-- [ ] CSV Files 
+- [X] CSV Files ~Steven 
 - [ ] Reading Files 
 
