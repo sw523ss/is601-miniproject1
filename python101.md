@@ -257,11 +257,17 @@ The example below demonstrates a factory method. The factory method returns a ne
 
 ### In simple Terms:
 
+Decorator is useful tool in Python since it allows programmers to modify the behavior of function or class. 
+Also, decorator allows to wrap another function to extend the behavior of wrapped function, without permanently 
+modifying it.
+
 ### Some Detail:
+Method is function that expects its first parameter to be a reference to the current object. 
+We can build decorators for methods the same way, while taking self into consideration in the wrapper function.
 
 ### To visualize:
 
-
+![decorator](./images/decorator.png)
 ---
 ## Extend Class
 
@@ -311,7 +317,7 @@ The example below demonstrates a factory method. The factory method returns a ne
 - [X] Unit Test ~Steven
 - [X] Constructor ~Steven
 - [X] Factory ~Steven
-- [ ] Decorator 
+- [X] Decorator ~Steven 
 - [ ] Extend Class
 - [ ] CSV Files 
 - [ ] Reading Files 

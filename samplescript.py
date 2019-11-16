@@ -1,21 +1,16 @@
-class Car(object):
+def p_decorate(func):
+   def func_wrapper(self):
+       return "<p>{0}</p>".format(func(self))
+   return func_wrapper
 
-    def factory(type):
-        if type == "Sportscar":
-            return Sportscar()
-        if type == "Van":
-            return Van()
+class Person(object):
+    def __init__(self):
+        self.name = "James"
+        self.family = "King"
 
-    factory = staticmethod(factory)
+    @p_decorate
+    def get_fullname(self):
+        return self.name+" "+self.family
 
-class Sportscar(Car):
-    def drive(self):
-        print("Sportscar driving.")
-
-class Van(Car):
-    def drive(self):
-        print("Van driving.")
-
-# Create object using factory.
-obj = Car.factory("Sportscar")
-obj.drive()
+my_person = Person()
+print(my_person.get_fullname())
