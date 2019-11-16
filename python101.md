@@ -130,11 +130,24 @@ This calls the method without creating an object. Unlike normal class methods, t
 
 ### In simple Terms:
 
+Property() function is to create property of a class. Returns a property attribute from the given getter, setter and deleter. 
+If no arguments are given, property() method returns a base property attribute that doesn't contain any getter, setter or deleter.
+
 ### Some Detail:
+
+Syntax: property(fget, fset, fdel, doc)
+
+Parameters:
+fget() – used to get the value of attribute
+fset() – used to set the value of attribute
+fdel() – used to delete the attribute value
+doc() – string that contains the documentation (docstring) for the attribute
+
+
 
 ### To visualize:
 
-
+![Property](./images/property.png)
 ---
 ## Method
 
@@ -339,7 +352,7 @@ The first row returned contains the column names, which is handled in a special 
 - [X] Class ~Steven
 - [X] Object ~Steven
 - [X] Static ~Steven
-- [ ] Property / Attribute
+- [X] Property / Attribute ~Steven
 - [X] Method ~Steven 
 - [X] Exception ~Steven
 - [X] Unit Test ~Steven
