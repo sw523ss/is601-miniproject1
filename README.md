@@ -58,3 +58,25 @@
 
 
 # Python 101 Changelog
+
+# Changelog
+
+- [x] Create .md File for python 101 ~ Faisal
+- [x] Added Headers for all items to be defined. ~Faisal
+- [x] Added Link on README.md file ~ Faisal
+- [x] How Python uses Indentation to control Flow ~Steven 
+- [X] Don't Repeat Yourself ~Steven
+- [X] Design Patterns from Gang of Four ~Steven 
+- [X] Class ~Steven
+- [X] Object ~Steven
+- [X] Static ~Steven
+- [X] Property / Attribute ~Steven
+- [X] Method ~Steven 
+- [X] Exception ~Steven
+- [X] Unit Test ~Steven
+- [X] Constructor ~Steven
+- [X] Factory ~Steven
+- [X] Decorator ~Steven 
+- [X] Extend Class ~Steven
+- [X] CSV Files ~Steven 
+- [X] Reading Files ~Steven 
